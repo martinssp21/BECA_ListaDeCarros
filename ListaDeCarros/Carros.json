@@ -1,0 +1,39 @@
+{
+    "carros": [
+        {
+            "nome": "F430",
+            "fabrica": "Ferrari",
+            "cor": "vermelho",
+            "imagem": "ferrari",
+            "valor": "R$ 1.000.000,00"
+        },
+        {
+            "nome": "Veyron",
+            "fabrica": "Buggati",
+            "cor": "azul",
+            "imagem": "veyron",
+            "valor": "R$ 10.000.000,00"
+        },
+        {
+            "nome": "Etios",
+            "fabrica": "Toytota",
+            "cor": "branco",
+            "imagem": "etios",
+            "valor": "R$ 43.000,00"
+        },
+        {
+            "nome": "TTS",
+            "fabrica": "Audi",
+            "cor": "laranja",
+            "imagem": "tts",
+            "valor": "R$ 300.000,00"
+        },
+        {
+            "nome": "Model S",
+            "fabrica": "Tesla",
+            "cor": "preto",
+            "imagem": "modelS",
+            "valor": "R$ 100.000.000,00"
+        }
+    ]
+}
